@@ -1,0 +1,17 @@
+# ===============================
+# Core dependencies (required)
+# ===============================
+
+opencv-python>=4.8.0
+mediapipe>=0.10.7
+numpy>=1.24.0
+
+# Optional but recommended for smoothing & math
+scipy>=1.10.0
+
+# ===============================
+# Windows (system volume control)
+# ===============================
+# Install ONLY if on Windows
+pycaw>=20230407
+comtypes>=1.2.0
